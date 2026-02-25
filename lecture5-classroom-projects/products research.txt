@@ -1,0 +1,49 @@
+Product Tektelic KONA Mega Gateway
+
+Manufacturer Tektelic
+Link: https://product-catalog.tektelic.com/product/MACO2LAS9231
+https://tektelic.com/products/gateways/kona-enterprise-gateway/
+Description: LoRaWAN Gateway - low power micro-cell gateway that supports Ethernet and Lte connection.
+
+
+Wi-Fi 6 Chipset
+
+Manufacturer: Qualcomm
+Link: https://www.qualcomm.com/wi-fi/products/fastconnect/fastconnect-6900
+Description: This chipset is designed for mobile devices and PCs to provide high-speed Wi-Fi 6 and 6E connectivity with advanced Bluetooth features. It supports 4-stream Dual Band Simultaneous (DBS) and 160MHz channels to deliver multi-gigabit speeds and low-latency performance for gaming and XR.
+
+NB-IoT Module
+
+Manufacturer: Quectel
+Link: https://www.quectel.com/product/lpwa-bg95-m3-mpcie/
+Description: The BG95-M3 is a multi-mode LPWA module supporting LTE Cat M1, Cat NB2 (NB-IoT), and EGPRS with integrated GNSS. It features ultra-low power consumption and a compact SMT form factor, making it ideal for battery-operated applications like smart metering and asset tracking.
+
+Sigfox Device
+
+Manufacturer: UnaBiz (formerly Sigfox SA)
+Link: https://partners.sigfox.com/products/sensit-discovery
+Description: Sens'it is a multi-sensor IoT device that uses the Sigfox 0G network to transmit environmental data without the need for local Wi-Fi or cellular setup. It includes sensors for temperature, humidity, light, and vibration, serving as a versatile tool for prototyping and field-testing IoT solutions.
+
+Bluetooth Low Energy (BLE) Beacon
+
+Manufacturer: Nordic Semiconductor
+Link: https://www.nordicsemi.com/products/nrf52832
+Description: The nRF52832 is a powerful multiprotocol SoC widely used to build BLE beacons for indoor positioning and asset tracking. It balances a high-performance ARM Cortex-M4 processor with extremely low power consumption, allowing beacons to operate for years on a single coin-cell battery.
+
+Ultra-Wideband (UWB) Transceiver
+Manufacturer: Qorvo
+Link: https://www.qorvo.com/products/p/DW3110
+Description: This UWB transceiver is designed for high-precision real-time location systems (RTLS) and secure "bubble" applications like digital car keys. It utilizes time-of-flight (ToF) technology to provide centimeter-level accuracy while maintaining low power consumption for mobile and IoT devices.
+
+Wi-Fi 6E Access Point
+
+Manufacturer: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9136-access-point-ds-cte-en.html
+Link: Cisco Catalyst 9136 Series Product Page
+Description: The Catalyst 9136 is an enterprise-grade access point that expands Wi-Fi 6 features into the 6GHz band to reduce network congestion and increase throughput. It includes integrated environmental sensors and advanced security features like WPA3 to support dense, high-performance office environments.
+
+5G IoT Module
+
+Manufacturer: Telit Cinterion
+Link: https://www.telit.com/modules-overview/cellular-5g/
+Description: The FN990 series is an M.2 5G data card optimized for high-bandwidth IoT applications such as industrial routers and video surveillance. It supports both Sub-6 GHz and mmWave spectrums, offering multi-gigabit download speeds and ultra-reliable low-latency communication.
+Zigbee Module
